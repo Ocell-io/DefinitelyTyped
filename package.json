@@ -1,0 +1,146 @@
+{
+  "_from": "@types/parse@^2.18.1",
+  "_id": "@types/parse@2.18.1",
+  "_inBundle": false,
+  "_integrity": "sha512-NDfsiv4NTfnqBSEE8Q9TASfrdAqUldwCIlF5kDfZQ51VLk95ItBRK00e3byHZFsNxMo4ff73fT2t3mOl7mGNKw==",
+  "_location": "/@types/parse",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@types/parse@^2.18.1",
+    "name": "@types/parse",
+    "escapedName": "@types%2fparse",
+    "scope": "@types",
+    "rawSpec": "^2.18.1",
+    "saveSpec": null,
+    "fetchSpec": "^2.18.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/parse/-/parse-2.18.1.tgz",
+  "_shasum": "7a7317f24be50003eac2cdc0e7d58e7bc95551fe",
+  "_spec": "@types/parse@^2.18.1",
+  "_where": "/home/kartal/Desktop/ocell/dynafo-parse-backend",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Ullisen Media Group",
+      "url": "https://github.com/ullisenmedia"
+    },
+    {
+      "name": "David Poetzsch-Heffter",
+      "url": "https://github.com/dpoetzsch"
+    },
+    {
+      "name": "Cedric Kemp",
+      "url": "https://github.com/jaeggerr"
+    },
+    {
+      "name": "Flavio Negrão",
+      "url": "https://github.com/flavionegrao"
+    },
+    {
+      "name": "Wes Grimes",
+      "url": "https://github.com/wesleygrimes"
+    },
+    {
+      "name": "Otherwise SAS",
+      "url": "https://github.com/owsas"
+    },
+    {
+      "name": "Andrew Goldis",
+      "url": "https://github.com/agoldis"
+    },
+    {
+      "name": "Alexandre Hétu Rivard",
+      "url": "https://github.com/AlexandreHetu"
+    },
+    {
+      "name": "Diamond Lewis",
+      "url": "https://github.com/dplewis"
+    },
+    {
+      "name": "Jong Eun Lee",
+      "url": "https://github.com/yomybaby"
+    },
+    {
+      "name": "Colin Ulin",
+      "url": "https://github.com/pocketcolin"
+    },
+    {
+      "name": "Robert Helms",
+      "url": "https://github.com/rdhelms"
+    },
+    {
+      "name": "Julien Quere",
+      "url": "https://github.com/jlnquere"
+    },
+    {
+      "name": "Thibault MOCELLIN",
+      "url": "https://github.com/tybi"
+    },
+    {
+      "name": "Raschid JF Rafaelly",
+      "url": "https://github.com/RaschidJFR"
+    },
+    {
+      "name": "Jeff Gu Kang",
+      "url": "https://github.com/jeffgukang"
+    },
+    {
+      "name": "Bui Tan Loc",
+      "url": "https://github.com/buitanloc"
+    },
+    {
+      "name": "Linus Unnebäck",
+      "url": "https://github.com/LinusU"
+    },
+    {
+      "name": "Jerome De Leon",
+      "url": "https://github.com/JeromeDeLeon"
+    },
+    {
+      "name": "Kent Robin Haugen",
+      "url": "https://github.com/kentrh"
+    },
+    {
+      "name": "Asen Lekov",
+      "url": "https://github.com/L3K0V"
+    },
+    {
+      "name": "Switt Kongdachalert",
+      "url": "https://github.com/swittk"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for parse",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/parse",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/parse"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.5",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "e9cb214a3e0d97c5c32574fc041dbffe8e1cd22ad6ba85e27066b65fb2bab5a6",
+  "typesVersions": {
+    "<=3.6": {
+      "*": [
+        "ts3.6/*"
+      ]
+    }
+  },
+  "version": "2.18.1"
+}
