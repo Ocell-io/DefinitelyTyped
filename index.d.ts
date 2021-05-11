@@ -1190,6 +1190,7 @@ namespace Parse {
             log: any;
             object: Object;
             original?: Object;
+            update?: any;
         }
 
         interface ValidationFieldOptions {
