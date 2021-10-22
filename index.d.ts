@@ -484,6 +484,7 @@ namespace Parse {
         unPinWithName(name: string): Promise<void>;
         unset(attr: Extract<keyof T, string>, options?: any): this | false;
         validate(attrs: Attributes, options?: SuccessFailureOptions): Error | false;
+        assumeCreated(): void;
     }
     interface ObjectStatic {
         createWithoutData<T extends Object>(id: string): T;
